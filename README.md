@@ -4,8 +4,7 @@ This project is built using HTML, CSS, and JavaScript to visualize various sorti
 
 ## Live
 
-**Sorting Visualizer**  
-A live demonstration of sorting algorithms in action.
+[🔗 Sorting Visualizer](https://rushielevates.github.io/Sorting_Visualizer/)
 
 ## Algorithms
 
